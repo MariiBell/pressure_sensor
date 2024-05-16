@@ -492,7 +492,7 @@
       "plot": "./Gerber",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../../../Inventor/Разводка печатных плат/pressure_sensor_logic.step",
+      "step": "../../../../../../Inventor/Разводка печатных плат/pressure_sensor_logic_.step",
       "svg": "",
       "vrml": ""
     },

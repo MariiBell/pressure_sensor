@@ -7100,6 +7100,110 @@
 		(layer "B.Fab")
 		(uuid "efef764a-0916-4774-826d-e6da9330e552")
 	)
+	(gr_text "+3.3V"
+		(at 44.375002 63.025003 0)
+		(layer "B.SilkS")
+		(uuid "0bd96273-4a72-4f56-8d1b-f9d8412318d8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "A-"
+		(at 41.750002 37.700003 0)
+		(layer "B.SilkS")
+		(uuid "2984d8c6-0797-43ce-9983-46cc5f0c1caf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "A-"
+		(at 60.025002 62.625003 0)
+		(layer "B.SilkS")
+		(uuid "339c8351-a642-4200-8e40-8680040028f9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "A+"
+		(at 38.150002 58.400003 0)
+		(layer "B.SilkS")
+		(uuid "4d0e6cfb-bad2-4fec-9396-be3e609d9505")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 59.300002 37.900003 0)
+		(layer "B.SilkS")
+		(uuid "6f798574-1910-4583-b0da-a5725e18c1a3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+3.3V"
+		(at 40.175002 42.925003 0)
+		(layer "B.SilkS")
+		(uuid "d93620cc-6604-4086-b9f7-5b5339024fc9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 64.350002 58.550003 0)
+		(layer "B.SilkS")
+		(uuid "dff5b484-9db3-48eb-b99e-173cececfce5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "A+"
+		(at 63.175002 41.350003 0)
+		(layer "B.SilkS")
+		(uuid "f57065bb-87aa-4437-ba4e-a56d6013f248")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 60.300002 42.350003)
 		(end 62.350002 42.350003)
